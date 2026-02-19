@@ -1,2 +1,11 @@
-# Librewolf-Mobile-Application
-LibreWolf is a Firefox-based browser that has been rebuilt with a focus on privacy, security, and freedom.  However, as this browser does not have an application for mobile devices, I started this repository.
+# Project Title
+
+Librewolf-Mobile-Application
+
+# Explain
+
+The Librewolf mobile application will only support Android and Android-based operating systems, and the basic features available in mobile Firefox will also be available in Librewolf (such as the use of add-ons within the mobile browser).
+
+However, the basic features of the Librewolf browser will remain unchanged.
+
+
